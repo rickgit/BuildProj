@@ -1,0 +1,2 @@
+# BuildProj
+gradle build script
